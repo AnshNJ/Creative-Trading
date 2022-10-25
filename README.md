@@ -15,4 +15,9 @@ After you have added a stock of your liking to the overview page, Click on them 
 
 This page consists all the information about the chosen stock, along with it's historical performance for the past 24Hr, 7days and a year, along with the technical details for the mentioned stocks below the graph.
 
+![localhost_3000_detail_GOOGL](https://user-images.githubusercontent.com/113118218/197835453-3c286a2b-e1e5-4d0a-95e1-edf1f5de1a8f.png)
 
+The graph showcase dynamic color range to improve user experience, with red accent for depreciating data and green for improving data.
+
+Tools used to create the above project :
+ReactJS, finnHub API(free), context API, Axios API fetcher, Bootstrap, ApexCharts. 
