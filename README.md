@@ -1,4 +1,4 @@
-# Welcome to Creative Trading demo! 
+# Welcome to Creative Trading demo! *Demo : https://creative-trading.netlify.app/*
 
 This project was created for the purpose of monitoring various (US-only at the moment) stocks and their historical performance with an hassle-free approach!
 
